@@ -1,7 +1,13 @@
-.h1{
+#banner-title{
+    float:right;
+    
+
+}
+
+.banner{
     color: purple;
 }
 
-#banner-titles{
-    float:right
+.flanner{
+    color: green;
 }
